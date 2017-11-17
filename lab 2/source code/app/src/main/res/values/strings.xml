@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Guardian news</string>
+    <string name="sample_headline">This is a sample headline.This will be replaced by original data...Happy Developement</string>
+    <string name="No_data">Unable To Connect...Swipe Down To Refresh</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="search_hint">Search For News</string>
+    <string name="API_KEY">18facb40564947dd9374bf534e7239eb</string>
+</resources>
